@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://modsifisticated-dev.github.io/Amatheia/",
+    baseUrl: "modsifisticated-dev.github.io/Amatheia/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
